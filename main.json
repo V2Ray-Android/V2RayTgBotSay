@@ -1,0 +1,14 @@
+{
+  "Include": [],
+  "Contain": [
+    {
+      "MatchingCond": [
+        "(?i)@ShelikhooBOT",
+        "手机"
+      ],
+      "MatchingCondTag": "DownloadV2Ray",
+      "OutPut": "暂时在Android上的支持好一点，在Play商店上下载 Actinium https://play\\.google\\.com/store/apps/details?id=com\\.v2ray\\.actinium",
+      "Tags": "Android"
+    }
+  ]
+}
