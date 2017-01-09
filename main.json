@@ -22,8 +22,7 @@
     },,
     {
       "MatchingCond": [
-        "下载",
-        "手机",
+        "手机版",
         "(?i)v2ray"
       ],
       "MatchingCondTag": "",
