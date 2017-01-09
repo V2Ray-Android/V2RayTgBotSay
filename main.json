@@ -28,6 +28,15 @@
       "MatchingCondTag": "",
       "OutPut": "暂时在Android上的支持好一点，在Play商店上下载 Actinium https://play\\.google\\.com/store/apps/details?id=com\\.v2ray\\.actinium",
       "Tags": "DownloadV2Ray"
+    },
+    {
+      "MatchingCond": [
+        "测试内容",
+        "(?i)v2ray"
+      ],
+      "MatchingCondTag": "",
+      "OutPut": "测试",
+      "Tags": "DownloadV2Ray"
     }
   ]
 }
