@@ -1,5 +1,7 @@
 {
-  "Include": [],
+  "Include": [
+    "https://raw.githubusercontent.com/v2ray/vbot/master/v.json"
+  ],
   "Contain": [
     {
       "MatchingCond": [
