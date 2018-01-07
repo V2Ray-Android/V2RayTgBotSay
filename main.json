@@ -33,6 +33,16 @@
     },
     {
       "MatchingCond": [
+        "SD-WAN",
+        "2018"，
+        "端口"
+      ],
+      "MatchingCondTag": "",
+      "OutPut": "这条消息的内容可能已经被证明和普通用户没有关系了，因为封锁的是入站端口，不涉及出站连接",
+      "Tags": "FalseInfo"
+    },
+    {
+      "MatchingCond": [
         "测试内容",
         "(?i)v2ray"
       ],
